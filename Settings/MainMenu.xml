@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Menu>
+	<Item>
+		<Name>Новая игра</Name>
+		<Description>Начать новую игру</Description>
+		<Position>0</Position>
+		<Action>NewGame</Action>
+		<Type>Button</Type>
+	</Item>
+	<Item>
+		<Name>Сохранить для потомков</Name>
+		<Description>Сохранить или загрузить игру</Description>
+		<Position>1</Position>
+		<Action>SubMenu</Action>
+		<Type>Button</Type>
+		<Item>
+			<Name>Сохранить</Name>
+			<Description>Сохранить текущую игру</Description>
+			<Position>0</Position>
+			<Action>Save</Action>
+			<Type>Button</Type>
+		</Item>
+		<Item>
+			<Name>Загрузить</Name>
+			<Description>Загрузить игру</Description>
+			<Position>1</Position>
+			<Action>Load</Action>
+			<Type>Button</Type>
+		</Item>
+		<Item>
+			<Name>Отмена</Name>
+			<Description>Вернуться в предыдущее меню</Description>
+			<Position>2</Position>
+			<Action>PreviousMenu</Action>
+			<Type>Button</Type>
+		</Item>
+	</Item>
+	<Item>
+		<Name>Вернуться к истории</Name>
+		<Description>Вернуться к игре</Description>
+		<Position>2</Position>
+		<Action>ReturnToGame</Action>
+		<Type>Button</Type>
+	</Item>
+	<Item>
+		<Name>Подмога</Name>
+		<Description>Открыть справку</Description>
+		<Position>3</Position>
+		<Action>Help</Action>
+		<Type>Button</Type>
+		<Item>
+			<Name>ОК</Name>
+			<Description></Description>
+			<Position>0</Position>
+			<Action>ok</Action>
+			<Type>Button</Type>
+		</Item>
+	</Item>
+	<Item>
+		<Name>Выход</Name>
+		<Description>Выйти из игры</Description>
+		<Position>4</Position>
+		<Action>exit</Action>
+		<Type>Button</Type>
+	</Item>
+</Menu>

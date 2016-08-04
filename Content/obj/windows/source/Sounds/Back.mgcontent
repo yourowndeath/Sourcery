@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/sounds/Back.mp3</SourceFile>
+  <SourceTime>2015-08-26T19:28:40+04:00</SourceTime>
+  <DestFile>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/bin/Windows/Source/sounds/Back.xnb</DestFile>
+  <DestTime>2016-06-01T00:50:01.6795521+04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2015-04-29T21:14:44+04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2015-04-29T21:14:44+04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/bin/Windows/Source/sounds/Back.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

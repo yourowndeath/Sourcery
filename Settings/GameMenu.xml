@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Menu>
+	<Item>
+		<Name>Настройки</Name>
+		<Description>Настройки игры</Description>
+		<Position>0</Position>
+		<Action>SubMenu</Action>
+		<Type>Button</Type>
+		<Item>
+			<Name>Звук</Name>
+			<Description>Настройка звуковых эффектов</Description>
+			<Position>0</Position>
+			<Action>SubMenu</Action>
+			<Type>Button</Type>
+			<Item>
+				<Name>Громкость музыки</Name>
+				<Description>Громкость музыки</Description>
+				<Position>0</Position>
+				<Action>MusicVolume</Action>
+				<Type>TrackBar</Type>
+			</Item>
+			<Item>
+				<Name>Громкость звука</Name>
+				<Description>Громкость звука</Description>
+				<Position>1</Position>
+				<Action>SoundVolume</Action>
+				<Type>TrackBar</Type>
+			</Item>
+			<Item>
+				<Name>Назад</Name>
+				<Description>Вернуться в предыдущее меню</Description>
+				<Position>2</Position>
+				<Action>PreviousMenu</Action>
+				<Type>Button</Type>
+			</Item>
+		</Item>
+		<Item>
+			<Name>Графика</Name>
+			<Description>Настройка отображения</Description>
+			<Position>1</Position>
+			<Action>SubMenu</Action>
+			<Type>Button</Type>
+			<Item>
+				<Name>Разрешение экрана</Name>
+				<Description></Description>
+				<Position>0</Position>
+				<Action>ScreenResolution</Action>
+				<Type>ComboBox</Type>
+				<Values>
+					<Value>800x600</Value>
+					<Value>1280x720</Value>
+					<Value>1600x900</Value>
+					<Value>1920x1080</Value>
+				</Values>
+			</Item>
+			<Item>
+				<Name>Полноэкранный режим</Name>
+				<Description></Description>
+				<Position>1</Position>
+				<Action>FullScreen</Action>
+				<Type>CheckBox</Type>
+			</Item>
+			<Item>
+				<Name>Назад</Name>
+				<Description>Вернуться в предыдущее меню</Description>
+				<Position>2</Position>
+				<Action>PreviousMenu</Action>
+				<Type>Button</Type>
+			</Item>
+		</Item>
+		<Item>
+			<Name>Системный курсор</Name>
+			<Description>Изменить отображение курсора</Description>
+			<Position>2</Position>
+			<Action>ChangeCursor</Action>
+			<Type>CheckBox</Type>
+		</Item>
+		<Item>
+			<Name>Назад</Name>
+			<Description>Вернуться в предыдущее меню</Description>
+			<Position>3</Position>
+			<Action>PreviousMenu</Action>
+			<Type>Button</Type>
+		</Item>
+	</Item>
+	<Item>
+		<Name>Покинуть бой</Name>
+		<Description></Description>
+		<Position>1</Position>
+		<Action>Leave</Action>
+		<Type>Button</Type>
+	</Item>
+	<Item>
+		<Name>Выход в систему</Name>
+		<Description></Description>
+		<Position>2</Position>
+		<Action>LeaveToSystem</Action>
+		<Type>Button</Type>
+	</Item>
+	<Item>
+		<Name>Вернуться в игру</Name>
+		<Description></Description>
+		<Position>3</Position>
+		<Action>ReturnToGame</Action>
+		<Type>Button</Type>
+	</Item>
+</Menu>

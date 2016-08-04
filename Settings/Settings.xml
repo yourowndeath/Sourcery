@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <MusicVolume>10</MusicVolume>
+  <SoundVolume>10</SoundVolume>
+  <ScreenResolution>1024x766</ScreenResolution>
+  <FullScreen>False</FullScreen>
+  <ChangeCursor>False</ChangeCursor>
+  <PlayerName>POTTER</PlayerName>
+  <GameName>SOURCERY</GameName>
+  <SplashScreen>screens/SplashScreen</SplashScreen>
+  <DeveloperScreen>screens/DeveloperScreen</DeveloperScreen>
+  <Background>screens/MainScreen</Background>
+  <Screens>
+    <Screen>
+      <Number>1</Number>
+      <Time>300</Time>
+      <Texture>screens/DeveloperScreen</Texture>
+      <Type>DeveloperScreen</Type>
+      <FadeIn>0</FadeIn>
+      <FadeOut>150</FadeOut>
+    </Screen>
+    <Screen>
+      <Number>2</Number>
+      <Time>200</Time>
+      <Texture>screens/SplashScreen</Texture>
+      <Type>SplashScreen</Type>
+      <FadeIn>0</FadeIn>
+      <FadeOut>150</FadeOut>
+    </Screen>
+    <Screen>
+      <Number>3</Number>
+      <Time>0</Time>
+      <Texture>screens/MainScreen</Texture>
+      <Type>TitleScreen</Type>
+      <FadeIn>0</FadeIn>
+      <FadeOut>150</FadeOut>
+    </Screen>
+    <Screen>
+      <Number>4</Number>
+      <Time>0</Time>
+      <Texture></Texture>
+      <Type>GameScreen</Type>
+      <FadeIn>0</FadeIn>
+      <FadeOut>150</FadeOut>
+    </Screen>
+  </Screens>
+</Settings>

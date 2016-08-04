@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Sounds/Click.wav</SourceFile>
+  <SourceTime>2015-08-26T20:05:17+04:00</SourceTime>
+  <DestFile>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/bin/Windows/Sounds/Click.xnb</DestFile>
+  <DestTime>2015-10-20T22:19:13.1237394+04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-29T21:14:44+04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-29T21:14:44+04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/animation/Hero.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/animation/Loader.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/animation/magic0.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/animation/magic1.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/animation/magic2.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/animation/magic3.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/Button.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/CheckBox.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/ComboBox.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/Decrement.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/Edit.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/EditCursor.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/Increment.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/ItemButton.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/ItemPanel.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/Panel.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/ReloadingButton.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/TrackLent.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/cursor/cancelCursor.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/cursor/Cursor.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/fonts/BigFont.spritefont</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/fonts/Font.spritefont</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/fonts/SmallFont.spritefont</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/game/AllMagic.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/game/Castle.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/game/enemy_selector.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/game/magic_selector.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/game/our_selector.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/game/strips.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/game/Tower.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/game/Update.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/screens/DeveloperScreen.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/screens/MainScreen.jpeg</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/screens/SplashScreen.jpg</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/sounds/Back.mp3</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/sounds/Click.wav</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/maps/sunnyValley.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/screens/atlScreen.jpg</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/divider.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/LeftFloat.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/RigthFloat.png</File>
+    <File>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/controls/back.png</File>
+  </SourceFiles>
+</SourceFileCollection>
