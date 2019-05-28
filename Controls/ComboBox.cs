@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
@@ -118,7 +116,7 @@ namespace Sourcery
       spriteBatch.DrawString(_Font, Caption, new Vector2(rectangle.Left + 5, rectangle.Top), Color.Black);
       if (_Expand)
       {
-        spriteBatch.Draw(_Panel, new Rectangle(rectangle.Left, rectangle.Bottom, rectangle.Width, 20 * _Values.Count), new Color(255, 255, 255, (byte)MathHelper.Clamp(70, 0, 255)));
+        spriteBatch.Draw(_Panel, new Rectangle(rectangle.Left, rectangle.Bottom, rectangle.Width, 20 * _Values.Count), new Color(255, 255, 255, MathHelper.Clamp(70, 0, 255)));
         int i = 0;
         foreach (Control item in _Values)
         {

@@ -17,7 +17,7 @@ with.
     Size is a float value, measured in points. Modify this value to change
     the size of the font.
     -->
-    <Size>10</Size>
+    <Size>12</Size>
 
     <!--
     Spacing is a float value, measured in pixels. Modify this value to change
@@ -55,10 +55,6 @@ with.
         <Start>&#32;</Start>
         <End>&#126;</End>
       </CharacterRegion>
-	  <CharacterRegion>
-        <Start>А</Start>
-        <End>я</End>
-	  </CharacterRegion>
     </CharacterRegions>
   </Asset>
 </XnaContent>

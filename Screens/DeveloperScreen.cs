@@ -64,7 +64,7 @@ namespace Sourcery
     {
       spriteBatch.Begin();
       if (mAlphaValue != 0)
-        spriteBatch.Draw(Background, Rect, new Color(255, 255, 255, (byte)MathHelper.Clamp(mAlphaValue, 0, 255)));
+        spriteBatch.Draw(Background, Rect, new Color(255, 255, 255, MathHelper.Clamp(mAlphaValue, 0, 255)));
       else if (Cycle > 100)
         spriteBatch.Draw(Background, Rect, new Color(fadeOut, 0, 0));
       else

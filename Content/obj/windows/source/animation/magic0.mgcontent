@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/animation/magic0.png</SourceFile>
-  <SourceTime>2011-04-07T17:54:50+04:00</SourceTime>
-  <DestFile>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/bin/Windows/Source/animation/magic0.xnb</DestFile>
-  <DestTime>2016-06-01T00:49:49.824874+04:00</DestTime>
+  <SourceFile>E:/prg/Sourcery/Content/Source/animation/magic0.png</SourceFile>
+  <SourceTime>2019-05-28T16:34:36.4091514+03:00</SourceTime>
+  <DestFile>E:/prg/Sourcery/Content/bin/Windows/Source/animation/magic0.xnb</DestFile>
+  <DestTime>2019-05-28T17:28:12.8277674+03:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2015-04-29T21:14:44+04:00</ImporterTime>
+  <ImporterTime>2018-12-08T19:35:54+03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2015-04-29T21:14:44+04:00</ProcessorTime>
+  <ProcessorTime>2018-12-08T19:35:54+03:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>
@@ -26,6 +26,10 @@
   </Parameters>
   <Parameters>
     <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>MakeSquare</Key>
     <Value>False</Value>
   </Parameters>
   <Parameters>

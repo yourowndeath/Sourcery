@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/Source/fonts/BigFont.spritefont</SourceFile>
-  <SourceTime>2015-08-18T13:18:42+04:00</SourceTime>
-  <DestFile>C:/Users/yourowndeath/Dropbox/work/FreeLance/Resourcery/Project/Sourcery/Sourcery/Content/bin/Windows/Source/fonts/BigFont.xnb</DestFile>
-  <DestTime>2016-06-01T00:49:54.4421381+04:00</DestTime>
+  <SourceFile>E:/prg/Sourcery/Content/Source/fonts/BigFont.spritefont</SourceFile>
+  <SourceTime>2019-05-28T17:27:48.8233975+03:00</SourceTime>
+  <DestFile>E:/prg/Sourcery/Content/bin/Windows/Source/fonts/BigFont.xnb</DestFile>
+  <DestTime>2019-05-28T17:28:13.6853969+03:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
-  <ImporterTime>2015-04-29T21:14:44+04:00</ImporterTime>
+  <ImporterTime>2018-12-08T19:35:54+03:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
-  <ProcessorTime>2015-04-29T21:14:44+04:00</ProcessorTime>
+  <ProcessorTime>2018-12-08T19:35:54+03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
   <Parameters>
     <Key>TextureFormat</Key>
     <Value>Compressed</Value>
